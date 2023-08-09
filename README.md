@@ -2,7 +2,7 @@
 
 ## the katas are as following with links for their folders here:
 
-- [Fast-forward-Merge](https://www.example.com)
-- [detached-head](detached-head)
-- [3way-merge](https://www.example.com)
-- [merge-mergesort](https://www.example.com)
+- [Fast-forward-Merge](https://github.com/obaidofj/git-repo3Excercises2/tree/master/Fast-forward-Merge)
+- [detached-head](https://github.com/obaidofj/git-repo3Excercises2/tree/master/detached-head)
+- [3way-merge](https://github.com/obaidofj/git-repo3Excercises2/tree/master/3way-merge)
+- [merge-mergesort](https://github.com/obaidofj/git-repo3Excercises2/tree/master/merge-mergesort)
